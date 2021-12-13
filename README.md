@@ -210,6 +210,8 @@
 
 [armfly](http://www.armbbs.cn/forum.php)：安富莱/硬汉嵌入式论坛。
 
+[armfly](http://www.manongjc.com/detail/9-wzehejziiwnahxh.html):安富莱资料下载中心。
+
 [fire download](https://ebf-products.readthedocs.io/zh_CN/latest/)：野火资料下载中心。
 
 [openedv download](http://www.openedv.com/docs/index.html)：正点原子资料下载中心。
@@ -217,6 +219,8 @@
 [野火](https://www.firebbs.cn/forum.php)：野火电子论坛。
 
 [正点](http://www.openedv.com/forum.php)：正点原子论坛。
+
+[硬石](http://www.ing10bbs.com/forum.php?mod=viewthread&tid=1458&fromuid=4):硬石电子资料下载中心。
 
 [ST](https://www.stmcu.org.cn/module/forum/forum.php)：ST中文社区。
 

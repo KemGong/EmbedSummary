@@ -326,13 +326,11 @@
 
 [xmake](https://gitee.com/tboox/xmake)：轻量级跨平台C/C++构建工具。
 
-<<<<<<< HEAD
 [spacevim](https://spacevim.org/cn/)：一个模块化的 Vim IDE。
 
 [vofa+](https://www.vofa.plus/)：一个插件驱动的高自由度上位机。
-=======
+
 [联合开发网](http://www.pudn.com/)：356万个编程源码资料
->>>>>>> be2a5a62038fd6143f17e73787078c8bc3ce0f8d
 
 更多资源敬请期待......
 

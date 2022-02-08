@@ -226,6 +226,8 @@
 
 [NXP社区](https://www.nxpic.org.cn/)：恩智浦论坛。
 
+[Linux命令大全](https://www.linuxcool.com/)：Linux命令大全（手册）。
+
 [Linux](https://www.kernel.org/)：Linux内核官网。
 
 [Linux源码](https://elixir.bootlin.com/linux/latest/source)：可在线阅读Linux内核源码。
@@ -317,6 +319,10 @@
 [C经典示例](https://github.com/Mzzopublic/C/tree/master/%E7%BB%8F%E5%85%B8%E7%A4%BA%E4%BE%8B)：一些C语言的实例。
 
 [xmake](https://gitee.com/tboox/xmake)：轻量级跨平台C/C++构建工具。
+
+[spacevim](https://spacevim.org/cn/)：一个模块化的 Vim IDE。
+
+[vofa+](https://www.vofa.plus/)：一个插件驱动的高自由度上位机。
 
 更多资源敬请期待......
 

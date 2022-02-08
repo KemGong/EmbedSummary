@@ -166,6 +166,8 @@
 
 [从零打造物联网](https://www.scaugreen.cn/posts/44755/)：一份适合嵌入式开发人员学习的web开发教程。
 
+[ROS教程](http://wiki.ros.org/cn/ROS/Tutorials)：机器人操作系统
+
 更多资源敬请期待......
 
 ### 5、实例/项目/软硬结合
@@ -210,6 +212,8 @@
 
 [armfly](http://www.armbbs.cn/forum.php)：安富莱/硬汉嵌入式论坛。
 
+[armfly](http://www.manongjc.com/detail/9-wzehejziiwnahxh.html)：安富莱资料下载中心。
+
 [fire download](https://ebf-products.readthedocs.io/zh_CN/latest/)：野火资料下载中心。
 
 [openedv download](http://www.openedv.com/docs/index.html)：正点原子资料下载中心。
@@ -217,6 +221,8 @@
 [野火](https://www.firebbs.cn/forum.php)：野火电子论坛。
 
 [正点](http://www.openedv.com/forum.php)：正点原子论坛。
+
+[硬石](http://www.ing10bbs.com/forum.php?mod=viewthread&tid=1458&fromuid=4)：硬石电子资料下载中心。
 
 [ST](https://www.stmcu.org.cn/module/forum/forum.php)：ST中文社区。
 
@@ -320,9 +326,13 @@
 
 [xmake](https://gitee.com/tboox/xmake)：轻量级跨平台C/C++构建工具。
 
+<<<<<<< HEAD
 [spacevim](https://spacevim.org/cn/)：一个模块化的 Vim IDE。
 
 [vofa+](https://www.vofa.plus/)：一个插件驱动的高自由度上位机。
+=======
+[联合开发网](http://www.pudn.com/)：356万个编程源码资料
+>>>>>>> be2a5a62038fd6143f17e73787078c8bc3ce0f8d
 
 更多资源敬请期待......
 
@@ -351,6 +361,12 @@
 [NordicSemiconductor](https://github.com/NordicSemiconductor)：北欧集成电路（Nordic）。
 
 [cypress-io](https://github.com/cypress-io)：赛普拉斯半导体（Cypress）。
+
+[GD32](http://www.gd32mcu.com/cn/download/7)：易兆创新(GD)。
+
+[GD32网盘](http://pan.baidu.com/s/1nuifedz)：：易兆创新(GD)网盘资料。
+
+[slam](https://www.slamtec.com/)：思岚。
 
 更多资源敬请期待......
 

@@ -2,7 +2,7 @@
 
 学习初期最难找的就是找学习资料了，本贴精心汇总了一些嵌入式相关资源，包括但不限于编程语言、单片机、开源项目、物联网、操作系统、Linux等资源，并且在不断地更新中，致力于打造全网最全的嵌入式资料库。有好的嵌入式相关资源的朋友欢迎做贡献，利人利己。以下为最新资料汇总：
 
-### 1、OS
+## 1、OS
 
 [鸿蒙OS](https://openharmony.gitee.com/openharmony)： 一款面向全场景的开源分布式操作系统。 
 
@@ -32,7 +32,7 @@
 
 更多资源敬请期待......
 
-### 2、实用库/框架
+## 2、实用库 / 框架
 
 [cJSON](https://github.com/DaveGamble/cJSON)：一个基于C语言的轻量级的JSON解析库。
 
@@ -124,7 +124,7 @@
 
 更多资源敬请期待......
 
-### 3、GUI相关
+## 3、GUI相关
 
 [GuiLite](https://gitee.com/idea4good/GuiLite)：大道至简 - 5千行/仅头文件/全平台GUI库 。
 
@@ -150,11 +150,11 @@
 
 [AWTK](https://gitee.com/zlgopen/awtk?_from=gitee_search)：是 ZLG 倾心打造的一套基于 C 语言开发的 GUI 框架 。
 
-[玲珑GUI](https://www.yuque.com/books/share/3317aaa7-f47f-4bfd-a4c2-7e64e7f1c4be?#)：玲珑GUI教程页。
+[玲珑GUI](https://gitee.com/gzbkey/LingLongGUI)：一个高效的界面开发解决方案。。
 
 更多资源敬请期待......
 
-### 4、物联网、智能家居
+## 4、物联网、智能家居
 
 [ HomeAssistant ](https://github.com/home-assistant/corel)：一款基于 Python 的智能家居开源系统。
 
@@ -170,7 +170,7 @@
 
 更多资源敬请期待......
 
-### 5、实例/项目/软硬结合
+## 5、实例 / 项目 / 软硬结合
 
 [qt_2019_ncov](https://github.com/whik/qt_2019_ncov)：基于Qt/C++实现的新冠肺炎疫情监控平台。
 
@@ -190,6 +190,8 @@
 
 [Avem](https://github.com/avem-labs/Avem)： 一个轻量级无人机飞控。
 
+[ esp8266-lattice-clock](https://gitee.com/lengff/esp8266-lattice-clock-open)：Esp8266多功能点阵时钟。
+
 [SoftWareSerial](https://github.com/TonyIOT/SoftWareSerial)：一个STM32 IO口模拟实现软件串口程序。 
 
 [串口ISP程序](https://github.com/nicekwell/stm32ISP)：一个stm32串口ISP程序。
@@ -206,7 +208,7 @@
 
 更多资源敬请期待......
 
-### 6、学习资料/资源/工具/网站
+## 6、资源 / 工具 / 网站 / 论坛
 
 [100ask download](http://download.100ask.org/)：百文网资料下载中心。
 
@@ -225,6 +227,8 @@
 [硬石](http://www.ing10bbs.com/forum.php?mod=viewthread&tid=1458&fromuid=4)：硬石电子资料下载中心。
 
 [ST](https://www.stmcu.org.cn/module/forum/forum.php)：ST中文社区。
+
+[arduino](https://www.arduino.cn/)：arduino中文社区。
 
 [讯为开发社区](http://bbs.topeetboard.com/forum.php)：北京讯为ARM开发社区。
 
@@ -332,9 +336,11 @@
 
 [联合开发网](http://www.pudn.com/)：356万个编程源码资料
 
+[觅思文档](https://mrdoc.pro/)：私有云笔记、云文档和知识库系统。
+
 更多资源敬请期待......
 
-### 7、一些芯片原厂代码仓库
+## 7、芯片原厂代码仓库
 
 [STMicroelectronics]([STMicroelectronics](https://github.com/STMicroelectronics))：意法半导体（ST）。
 

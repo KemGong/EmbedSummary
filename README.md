@@ -122,6 +122,8 @@
 
 [tbox](https://gitee.com/tboox/tbox)：一个用c语言实现的跨平台开发库。
 
+[sys/queue.h](https://code.woboq.org/userspace/glibc/misc/sys/queue.h.html)：用宏实现的常用数据结构。
+
 更多资源敬请期待......
 
 ## 3、GUI相关
@@ -337,6 +339,10 @@
 [联合开发网](http://www.pudn.com/)：356万个编程源码资料
 
 [觅思文档](https://mrdoc.pro/)：私有云笔记、云文档和知识库系统。
+
+[aardio](https://www.aardio.com/)：易用性极强的动态语言。
+
+[OneNET SDK](https://github.com/cm-heclouds)：OneNET SDK仓库。
 
 更多资源敬请期待......
 

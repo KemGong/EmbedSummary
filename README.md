@@ -30,6 +30,8 @@
 
 [freenos](http://www.freenos.org/)：FreeNOS微内核操作系统。
 
+[cola_os](https://gitee.com/schuck/cola_os)：300行代码实现多任务管理的OS。
+
 更多资源敬请期待......
 
 ## 2、实用库 / 框架
@@ -59,6 +61,8 @@
 [cmd-parser](https://github.com/jiejieTop/cmd-parser)：一个非常简单好用的命令解析器。
 
 [mqttclient](https://github.com/jiejieTop/mqttclient)：一个省资源、高稳定的MQTT客户端。
+
+[http-client](https://github.com/jiejieTop/http-client)：一个高稳定性与高性能的 HTTP 客户端。
 
 [NorthFrame](https://gitee.com/PISCES_X/NorthFrame) ：一个单片机极简图形化状态机框架 。
 
@@ -100,7 +104,7 @@
 
 [mbedtls](https://github.com/ARMmbed/mbedtls) ：一个开源、便携,易于使用,可读的和灵活的SSL库。 
 
-[mosquitto](https://github.com/eclipse/mosquitto)或[mosquitto(下载速度快)](https://gitee.com/zhengnianli/mosquitto)：一个开源的MQTT代理。
+[mosquitto](https://github.com/eclipse/mosquitto)或[mosquitto](https://gitee.com/zhengnianli/mosquitto)：一个开源的MQTT代理。
 
 [inih](https://github.com/benhoyt/inih)：  C 语言编写的 INI 文件解析器。
 
@@ -114,9 +118,9 @@
 
 [gear-lib](https://gitee.com/gozfreee/gear-lib) ： 适用于IOT/嵌入式/网络服务开发的C库 。
 
- [mult_timer](https://gitee.com/simpost/mult_timer) ： 一个Linux下的超级精简的多重定时器 。
+[mult_timer](https://gitee.com/simpost/mult_timer) ： 一个Linux下的超级精简的多重定时器 。
 
- [EFSM](https://gitee.com/simpost/EFSM) ： 是一个基于事件驱动的有限状态机 。
+[EFSM](https://gitee.com/simpost/EFSM) ： 是一个基于事件驱动的有限状态机 。
 
 [EasyX](https://easyx.cn/)：一个免费的图形库。
 
@@ -124,19 +128,33 @@
 
 [sys/queue.h](https://code.woboq.org/userspace/glibc/misc/sys/queue.h.html)：用宏实现的常用数据结构。
 
+[nanomsg](https://nanomsg.org/)：一个实现了几种“可扩展协议”的高性能通信库。
+
+[thttpd](http://acme.com/software/thttpd/)：一个简单，小型，可移植，快速且安全的HTTP服务器。
+
+[boa](http://www.boa.org/)：一个小巧高效的web服务器。
+
+[QueueForMcu](https://github.com/xiaoxinpro/QueueForMcu)：基于单片机实现的队列功能模块。
+
 更多资源敬请期待......
 
 ## 3、GUI相关
 
 [GuiLite](https://gitee.com/idea4good/GuiLite)：大道至简 - 5千行/仅头文件/全平台GUI库 。
 
-[yoxios](https://www.yoxios.com/)：  基于Linux开发的轻量级物联网系统和硬件平台。 
+[littlevGL](https://gitee.com/mirrors/lvgl) ： 一个免费的开源图形库。 
+
+[玲珑GUI](https://gitee.com/gzbkey/LingLongGUI)：一个高效的界面开发解决方案。
 
 [ToughGFX](https://www.touchgfx.com/zh/)： 一个C++编写的GUI软件框架 。
 
 [emwin](https://www.segger.com/products/user-interface/emwin/)：一个老牌GUI库。
 
-[littlevGL](https://gitee.com/mirrors/lvgl) ： 一个免费的开源图形库。 
+[AWTK](https://gitee.com/zlgopen/awtk?_from=gitee_search)：是 ZLG 倾心打造的一套基于 C 语言开发的 GUI 框架 。
+
+[VirtualLCD](https://gitee.com/kerndev/VirtualLCD)：虚拟LCD，可用于GUI移植。
+
+[yoxios](https://www.yoxios.com/)：  基于Linux开发的轻量级物联网系统和硬件平台。 
 
 [野牛 LittlevGL demo](https://gitee.com/mzy2364/LittlevGL_Demo)：基于野牛开发板的 LittlevGL  demo 程序 。
 
@@ -150,39 +168,17 @@
 
 [Gtk](https://www.gtk.org/)： 一个用于创造图形用户接口的图形库。
 
-[AWTK](https://gitee.com/zlgopen/awtk?_from=gitee_search)：是 ZLG 倾心打造的一套基于 C 语言开发的 GUI 框架 。
-
-[玲珑GUI](https://gitee.com/gzbkey/LingLongGUI)：一个高效的界面开发解决方案。。
+[CUGUI](https://gitee.com/cuihongxi/CUIGUI)：为单片机写的GUI ，支持字体，按键，图片，滑动条。
 
 更多资源敬请期待......
 
-## 4、物联网、智能家居
-
-[ HomeAssistant ](https://github.com/home-assistant/corel)：一款基于 Python 的智能家居开源系统。
-
-[ Domoticz ](https://github.com/domoticz/domoticz)：一个开源的智能家居系统 。
-
-[Kaa IoT Platform](https://www.kaaproject.org/)：功能丰富的开放和高效的物联网云平台。
-
-[ RT-Thread IoT SDK ](https://github.com/RT-Thread/IoT_Board)：基于RT-Thread IOT开发板的各类例程。
-
-[从零打造物联网](https://www.scaugreen.cn/posts/44755/)：一份适合嵌入式开发人员学习的web开发教程。
-
-[ROS教程](http://wiki.ros.org/cn/ROS/Tutorials)：机器人操作系统
-
-更多资源敬请期待......
-
-## 5、实例 / 项目 / 软硬结合
+## 4、项目 / 软硬结合
 
 [qt_2019_ncov](https://github.com/whik/qt_2019_ncov)：基于Qt/C++实现的新冠肺炎疫情监控平台。
 
- [H7-TOOL_STM32H7_App](https://gitee.com/armfly/H7-TOOL_STM32H7_App) ：H7-TOOL 多功能开发工具。
+ [H7-TOOL_STM32H7_App](https://gitee.com/armfly/H7-TOOL_STM32H7_App) ：安富莱H7-TOOL 多功能开发工具。
 
 [DAPLink/CMSIS DAP](https://github.com/ARMmbed/DAPLink)：一个调试器， 集成下载、调试和USB虚拟串口。
-
-[mcush](https://github.com/pengshulin/mcush)：MCU shell。
-
-[DoST](https://github.com/zhangyuhu/DoST)： Linux 下开发 STM32 。
 
 [Crazepony](http://www.crazepony.com/)：Crazepony开源四轴飞行器。
 
@@ -208,9 +204,13 @@
 
 [ EWAHBoolArray](https://github.com/lemire/EWAHBoolArray)： bitmap算法。
 
+[mcush](https://github.com/pengshulin/mcush)：MCU shell。
+
+[DoST](https://github.com/zhangyuhu/DoST)： Linux 下开发 STM32 。
+
 更多资源敬请期待......
 
-## 6、资源 / 工具 / 网站 / 论坛
+## 5、资源 / 工具 / 网站 / 论坛
 
 [100ask download](http://download.100ask.org/)：百文网资料下载中心。
 
@@ -346,7 +346,7 @@
 
 更多资源敬请期待......
 
-## 7、芯片原厂代码仓库
+## 6、芯片原厂代码仓库
 
 [STMicroelectronics]([STMicroelectronics](https://github.com/STMicroelectronics))：意法半导体（ST）。
 
@@ -376,9 +376,29 @@
 
 [GD32网盘](http://pan.baidu.com/s/1nuifedz)：：易兆创新(GD)网盘资料。
 
-[slam](https://www.slamtec.com/)：思岚。
+更多资源敬请期待......
+
+## 7、物联网、智能家居
+
+[ HomeAssistant ](https://github.com/home-assistant/corel)：一款基于 Python 的智能家居开源系统。
+
+[ Domoticz ](https://github.com/domoticz/domoticz)：一个开源的智能家居系统 。
+
+[Kaa IoT Platform](https://www.kaaproject.org/)：功能丰富的开放和高效的物联网云平台。
+
+[ RT-Thread IoT SDK ](https://github.com/RT-Thread/IoT_Board)：基于RT-Thread IOT开发板的各类例程。
+
+[从零打造物联网](https://www.scaugreen.cn/posts/44755/)：一份适合嵌入式开发人员学习的web开发教程。
 
 更多资源敬请期待......
+
+## 8、机器人相关 / 定位 / 视觉
+
+[RoboCar](https://gitee.com/cv_team/uestc-careye)：机器人自动寻线、避障、建图、导航、遥控版本/车载电脑版本路面分析，及交通路况识别的车辆辅助驾驶系统
+
+[ROS教程](http://wiki.ros.org/cn/ROS/Tutorials)：机器人操作系统
+
+[slam](https://www.slamtec.com/)：思岚科技。
 
 
 

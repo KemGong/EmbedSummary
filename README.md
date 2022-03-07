@@ -38,6 +38,8 @@
 
 [cJSON](https://github.com/DaveGamble/cJSON)：一个基于C语言的轻量级的JSON解析库。
 
+[Smartlink](https://github.com/jolin90/smartconfig)：Linux上实现的smartconfig。
+
 [jsmn](https://github.com/zserge/jsmn)：一个小巧的基于C语言的JSON解析库。
 
 [ MultiTimer ](https://github.com/0x1abin/MultiTimer)： 一个软件定时器扩展模块。
@@ -177,6 +179,8 @@
 [qt_2019_ncov](https://github.com/whik/qt_2019_ncov)：基于Qt/C++实现的新冠肺炎疫情监控平台。
 
  [H7-TOOL_STM32H7_App](https://gitee.com/armfly/H7-TOOL_STM32H7_App) ：安富莱H7-TOOL 多功能开发工具。
+
+[the-little-bili-tv](https://gitee.com/wangpeng25/the-little-bili-tv)：基于esp32+lvgl8.0的哔哩哔哩小电视。 
 
 [DAPLink/CMSIS DAP](https://github.com/ARMmbed/DAPLink)：一个调试器， 集成下载、调试和USB虚拟串口。
 

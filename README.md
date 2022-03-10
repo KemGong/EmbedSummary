@@ -14,6 +14,8 @@
 
 [µC/OS ](https://www.micrium.com/rtos/)：一个功能齐全的嵌入式操作系统。
 
+[eventos-nano](https://gitee.com/event-os/eventos-nano)：一个超轻量级嵌入式开发框架，事件驱动，占用资源小，可运用于各型单片机。
+
 [mbed-os](https://github.com/ARMmbed/mbed-os) ：ARM自己打造、主打IoT的一整套软件解决方案 。 
 
 [BabyOS](https://gitee.com/notrynohigh/BabyOS)： 专为MCU项目开发提速的代码框架 。

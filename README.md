@@ -370,7 +370,7 @@
 
 ## 6、芯片原厂代码仓库
 
-[STMicroelectronics]([STMicroelectronics](https://github.com/STMicroelectronics))：意法半导体（ST）。
+[STMicroelectronics](https://github.com/STMicroelectronics)：意法半导体（ST）。
 
 [TI](https://github.com/ti-simplelink)：德州仪器（TI）。
 

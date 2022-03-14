@@ -42,11 +42,17 @@
 
 [Smartlink](https://github.com/jolin90/smartconfig)：Linux上实现的smartconfig。
 
+[CodeBrick](https://gitee.com/moluo-tech/CodeBrick)：一种无OS的MCU实用软件管理系统。
+
+[RIL](https://gitee.com/moluo-tech/ril)：一款专门为嵌入式平台开发的无线通信模块(GSM/GPRS/CatM1/NB)管理框架。
+
 [jsmn](https://github.com/zserge/jsmn)：一个小巧的基于C语言的JSON解析库。
 
-[ MultiTimer ](https://github.com/0x1abin/MultiTimer)： 一个软件定时器扩展模块。
+[MultiTimer ](https://github.com/0x1abin/MultiTimer)： 一个软件定时器扩展模块。
 
 [MultiButton](https://github.com/0x1abin/MultiButton)： 一个小巧简单易用的事件驱动型按键驱动模块。
+
+[FlexibleButton](https://github.com/murphyzhao/FlexibleButton)： FlexibleButton 是一个基于标准 C 语言的小巧灵活的按键处理库。
 
 [ SmartTimer ](https://github.com/lmooml/SmartTimer)： 一个轻量级的基于STM32的定时器调度器 。
 
@@ -104,8 +110,6 @@
 
 [nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) ： shell for MCU，单片机命令行交互。
 
-[FlexibleButton](https://github.com/murphyzhao/FlexibleButton)： FlexibleButton 是一个基于标准 C 语言的小巧灵活的按键处理库。
-
 [mbedtls](https://github.com/ARMmbed/mbedtls) ：一个开源、便携,易于使用,可读的和灵活的SSL库。 
 
 [mosquitto](https://github.com/eclipse/mosquitto)或[mosquitto](https://gitee.com/zhengnianli/mosquitto)：一个开源的MQTT代理。
@@ -139,6 +143,8 @@
 [boa](http://www.boa.org/)：一个小巧高效的web服务器。
 
 [QueueForMcu](https://github.com/xiaoxinpro/QueueForMcu)：基于单片机实现的队列功能模块。
+
+[toolkit](https://github.com/cproape/toolkit)：ToolKit是一套应用于嵌入式系统的通用工具包。
 
 更多资源敬请期待......
 
@@ -177,6 +183,8 @@
 更多资源敬请期待......
 
 ## 4、项目 / 软硬结合
+
+[ElectronBot](https://github.com/peng-zhihui/ElectronBot)：一个桌面级小机器人。
 
 [qt_2019_ncov](https://github.com/whik/qt_2019_ncov)：基于Qt/C++实现的新冠肺炎疫情监控平台。
 
@@ -234,6 +242,12 @@
 
 [硬石](http://www.ing10bbs.com/forum.php?mod=viewthread&tid=1458&fromuid=4)：硬石电子资料下载中心。
 
+[harmonyos-tutorial](https://gitee.com/waylau/harmonyos-tutorial)：《跟老卫学HarmonyOS开发》。
+
+[REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程攻略。
+
+[zju-icicles](https://github.com/QSCTech/zju-icicles)：浙江大学课程攻略共享计划
+
 [ST](https://www.stmcu.org.cn/module/forum/forum.php)：ST中文社区。
 
 [arduino](https://www.arduino.cn/)：arduino中文社区。
@@ -243,6 +257,8 @@
 [讯为官网](http://www.topeetboard.com/)：讯为官网。
 
 [NXP社区](https://www.nxpic.org.cn/)：恩智浦论坛。
+
+[STM32F4xx](https://github.com/MaJerle/stm32f429)：基于STM32F429的常用器件的驱动程序库。
 
 [Linux命令大全](https://www.linuxcool.com/)：Linux命令大全（手册）。
 

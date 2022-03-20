@@ -1,6 +1,10 @@
 ## 嵌入式相关开源项目、库、资料------持续更新中
 
-学习初期最难找的就是找学习资料了，本贴精心汇总了一些嵌入式相关资源，包括但不限于编程语言、单片机、开源项目、物联网、操作系统、Linux等资源，并且在不断地更新中，致力于打造全网最全的嵌入式资料库。有好的嵌入式相关资源的朋友欢迎做贡献，利人利己。以下为最新资料汇总：
+学习初期最难找的就是找学习资料了，本贴精心汇总了一些嵌入式相关资源，包括但不限于编程语言、单片机、开源项目、物联网、操作系统、Linux等资源，并且在不断地更新中，致力于打造全网最全的嵌入式资料库。有好的嵌入式相关资源的朋友欢迎做贡献，利人利己。
+
+> 收录公开资料仅为了方便大家进行学习。如果你认为本仓库的一些文件侵犯了您的权益，请 向我反馈 。我将会从仓库中彻底清除这些文件。
+
+以下为最新资料汇总：
 
 ## 1、OS
 
@@ -15,6 +19,8 @@
 [µC/OS ](https://www.micrium.com/rtos/)：一个功能齐全的嵌入式操作系统。
 
 [eventos-nano](https://gitee.com/event-os/eventos-nano)：一个超轻量级嵌入式开发框架，事件驱动，占用资源小，可运用于各型单片机。
+
+[zephyr](https://www.zephyrproject.org/)：Zephyr 是 Linux 基金会推出的一个适用于物联网的小型可伸缩的实时操作系统。
 
 [mbed-os](https://github.com/ARMmbed/mbed-os) ：ARM自己打造、主打IoT的一整套软件解决方案 。 
 
@@ -38,15 +44,25 @@
 
 ## 2、实用库 / 框架
 
-[cJSON](https://github.com/DaveGamble/cJSON)：一个基于C语言的轻量级的JSON解析库。
+[Melon](https://github.com/Water-Melon/Melon)：一个用于简化开发的 C 框架库。
+
+[zlog](https://github.com/HardySimpson/zlog)：一个高可靠性、高性能、纯C日志函数库。
+
+[EasyLogger](https://github.com/armink/EasyLogger)：一款超轻量级、高性能的 C/C++ 日志库。
 
 [Smartlink](https://github.com/jolin90/smartconfig)：Linux上实现的smartconfig。
+
+[airkissOpen](https://github.com/heyuanjie87/airkissOpen) ：腾讯airkiss协议解析库 。
 
 [CodeBrick](https://gitee.com/moluo-tech/CodeBrick)：一种无OS的MCU实用软件管理系统。
 
 [RIL](https://gitee.com/moluo-tech/ril)：一款专门为嵌入式平台开发的无线通信模块(GSM/GPRS/CatM1/NB)管理框架。
 
+[cJSON](https://github.com/DaveGamble/cJSON)：一个基于C语言的轻量级的JSON解析库。
+
 [jsmn](https://github.com/zserge/jsmn)：一个小巧的基于C语言的JSON解析库。
+
+[inih](https://github.com/benhoyt/inih)：  C 语言编写的 INI 文件解析器。
 
 [MultiTimer ](https://github.com/0x1abin/MultiTimer)： 一个软件定时器扩展模块。
 
@@ -54,11 +70,11 @@
 
 [FlexibleButton](https://github.com/murphyzhao/FlexibleButton)： FlexibleButton 是一个基于标准 C 语言的小巧灵活的按键处理库。
 
-[ SmartTimer ](https://github.com/lmooml/SmartTimer)： 一个轻量级的基于STM32的定时器调度器 。
+[SmartTimer ](https://github.com/lmooml/SmartTimer)： 一个轻量级的基于STM32的定时器调度器 。
+
+[mult_timer](https://gitee.com/simpost/mult_timer) ： 一个Linux下的超级精简的多重定时器 。
 
 [CmBacktrace](https://github.com/armink/CmBacktrace) ： 一款针对 ARM Cortex-M 系列 MCU 的错误代码自动追踪库。 
-
-[EasyLogger](https://github.com/armink/EasyLogger)：一款超轻量级、高性能的 C/C++ 日志库。
 
 [EasyFlash](https://github.com/armink/EasyFlash)：一款开源的轻量级嵌入式Flash存储器库 。
 
@@ -74,15 +90,23 @@
 
 [http-client](https://github.com/jiejieTop/http-client)：一个高稳定性与高性能的 HTTP 客户端。
 
+[mosquitto](https://github.com/eclipse/mosquitto)或[mosquitto](https://gitee.com/zhengnianli/mosquitto)：一个开源的MQTT代理。
+
 [NorthFrame](https://gitee.com/PISCES_X/NorthFrame) ：一个单片机极简图形化状态机框架 。
 
 [letter-shell](https://github.com/NevermindZZT/letter-shell)：一个功能强大的嵌入式shell。
+
+[nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) ： shell for MCU，单片机命令行交互。
 
 [pigweed](https://github.com/izzimat/pigweed)：谷歌开源的嵌入式目标库（模块）集合。 
 
 [lwrb](https://github.com/MaJerle/lwrb)：一个轻量级通用环缓冲区管理器库。
 
 [cQueue](https://gitee.com/yorkjia/cQueue) ：使用ANSI C 编写的消息队列功能函数。 
+
+[QueueForMcu](https://github.com/xiaoxinpro/QueueForMcu)：基于单片机实现的队列功能模块。
+
+[RingBuffer](https://github.com/XinLiGH/RingBuffer)：模仿 kfifo 实现的环形缓冲区。
 
 [Unity](https://github.com/ThrowTheSwitch/Unity/releases)：一个轻量级的、适合嵌入式的测试框架。
 
@@ -94,27 +118,25 @@
 
 [googletest](https://github.com/google/googletest)：谷歌C++测试框架。
 
-[ znfat ](https://gitee.com/dbembed/znfat?_from=gitee_search)：振南fat，国产嵌入式文件系统方案 。
+[znfat ](https://gitee.com/dbembed/znfat?_from=gitee_search)：振南fat，国产嵌入式文件系统方案 。
+
+[gear-lib](https://gitee.com/gozfreee/gear-lib) ： 适用于IOT/嵌入式/网络服务开发的C库 。
 
 [libu](https://github.com/koanlogic/libu)：一个C语言写的多平台工具库。
 
+[tbox](https://gitee.com/tboox/tbox)：一个用c语言实现的跨平台开发库。
+
+[toolkit](https://github.com/cproape/toolkit)：ToolKit是一套应用于嵌入式系统的通用工具包。
+
 [LWIP](http://savannah.nongnu.org/projects/lwip/)： 一个小型开源的TCP/IP协议栈 。
 
-[ SQLite ](https://www.sqlite.org/download.html)：一个开源的嵌入式关系数据库。
+[SQLite ](https://www.sqlite.org/download.html)：一个开源的嵌入式关系数据库。
 
 [OpenBLT](https://sourceforge.net/projects/openblt/files/)：一种开源引导加载程序。
 
 [Linux Lab](https://gitee.com/tinylab/linux-lab) ： Linux 内核实验室，基于 Docker/Qemu 的极速 Linux 内核学习、开发和测试环境。 
 
-[airkissOpen](https://github.com/heyuanjie87/airkissOpen) ：腾讯airkiss协议解析库 。
-
-[nr_micro_shell](https://gitee.com/nrush/nr_micro_shell) ： shell for MCU，单片机命令行交互。
-
 [mbedtls](https://github.com/ARMmbed/mbedtls) ：一个开源、便携,易于使用,可读的和灵活的SSL库。 
-
-[mosquitto](https://github.com/eclipse/mosquitto)或[mosquitto](https://gitee.com/zhengnianli/mosquitto)：一个开源的MQTT代理。
-
-[inih](https://github.com/benhoyt/inih)：  C 语言编写的 INI 文件解析器。
 
 [QP](http://www.state-machine.com/)：QP实时嵌入式框架。
 
@@ -124,15 +146,9 @@
 
 [eepromfs](https://gitee.com/wtau_zaozao/eepromfs?_from=gitee_search)： 基于EEPROM的简易类文件的数据读写库 。
 
-[gear-lib](https://gitee.com/gozfreee/gear-lib) ： 适用于IOT/嵌入式/网络服务开发的C库 。
-
-[mult_timer](https://gitee.com/simpost/mult_timer) ： 一个Linux下的超级精简的多重定时器 。
-
 [EFSM](https://gitee.com/simpost/EFSM) ： 是一个基于事件驱动的有限状态机 。
 
 [EasyX](https://easyx.cn/)：一个免费的图形库。
-
-[tbox](https://gitee.com/tboox/tbox)：一个用c语言实现的跨平台开发库。
 
 [sys/queue.h](https://code.woboq.org/userspace/glibc/misc/sys/queue.h.html)：用宏实现的常用数据结构。
 
@@ -141,10 +157,6 @@
 [thttpd](http://acme.com/software/thttpd/)：一个简单，小型，可移植，快速且安全的HTTP服务器。
 
 [boa](http://www.boa.org/)：一个小巧高效的web服务器。
-
-[QueueForMcu](https://github.com/xiaoxinpro/QueueForMcu)：基于单片机实现的队列功能模块。
-
-[toolkit](https://github.com/cproape/toolkit)：ToolKit是一套应用于嵌入式系统的通用工具包。
 
 更多资源敬请期待......
 
@@ -245,6 +257,8 @@
 [harmonyos-tutorial](https://gitee.com/waylau/harmonyos-tutorial)：《跟老卫学HarmonyOS开发》。
 
 [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)：清华大学计算机系课程攻略。
+
+[circuitjs](https://www.falstad.com/circuit/circuitjs.html)：一个浏览器版电路仿真软件。
 
 [zju-icicles](https://github.com/QSCTech/zju-icicles)：浙江大学课程攻略共享计划
 

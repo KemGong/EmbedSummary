@@ -44,6 +44,8 @@
 
 ## 2、实用库 / 框架
 
+[ametal](https://gitee.com/zlgopen/ametal)或[ametal](https://github.com/zlgopen/ametal)：AMetal是芯片级的裸机软件包，定义了跨平台的通用接口。
+
 [Melon](https://github.com/Water-Melon/Melon)：一个用于简化开发的 C 框架库。
 
 [zlog](https://github.com/HardySimpson/zlog)：一个高可靠性、高性能、纯C日志函数库。
@@ -415,8 +417,6 @@
 更多资源敬请期待......
 
 ## 7、物联网、智能家居
-
-[ HomeAssistant ](https://github.com/home-assistant/corel)：一款基于 Python 的智能家居开源系统。
 
 [ Domoticz ](https://github.com/domoticz/domoticz)：一个开源的智能家居系统 。
 

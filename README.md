@@ -18,6 +18,8 @@
 
 [µC/OS ](https://www.micrium.com/rtos/)：一个功能齐全的嵌入式操作系统。
 
+[Azure RTOS](https://azure.microsoft.com/zh-cn/services/rtos/#overview)：Azure RTOS 是一个嵌入式开发套件。
+
 [eventos-nano](https://gitee.com/event-os/eventos-nano)：一个超轻量级嵌入式开发框架，事件驱动，占用资源小，可运用于各型单片机。
 
 [zephyr](https://www.zephyrproject.org/)：Zephyr 是 Linux 基金会推出的一个适用于物联网的小型可伸缩的实时操作系统。
@@ -199,6 +201,8 @@
 ## 4、项目 / 软硬结合
 
 [ElectronBot](https://github.com/peng-zhihui/ElectronBot)：一个桌面级小机器人。
+
+[Planck-Pi](https://github.com/peng-zhihui/Planck-Pi)：超迷你Linux开发板。
 
 [qt_2019_ncov](https://github.com/whik/qt_2019_ncov)：基于Qt/C++实现的新冠肺炎疫情监控平台。
 
